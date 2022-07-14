@@ -16,7 +16,7 @@ const GlobalStyle = createGlobalStyle`
     font-display: swap;
   }
   html {
-    font-family: "EliceRegular", sans-serif;
+    font-family: sans-serif;
     font-size: 62.5%;
   }
   html, body, #root{
@@ -27,6 +27,11 @@ const GlobalStyle = createGlobalStyle`
     min-height: 100vh;
     position: relative;
     padding-bottom: 13.5rem;
+  }
+  .fonts-loaded {
+    body {
+      font-family: 'EliceRegular', sans-serif;
+    }
   }
   a {
     text-decoration: none;
