@@ -1,7 +1,8 @@
-import React, { lazy, Suspense } from 'react';
+import React, { lazy, useEffect } from 'react';
 import {
   BrowserRouter, Routes, Route,
 } from 'react-router-dom';
+import EliceRegular from '@assets/fonts/EliceDigitalBaeumOTF_Regular.woff';
 
 import Register from '@pages/auth/register';
 import Layout from '@pages/layout';
@@ -18,6 +19,20 @@ const BoardDetail = lazy(() => import('@pages/boardDetail/boardDetail'));
 
 function App() {
   const [getModalPage] = useModal();
+
+  useEffect(() => {
+    const eliceRegular = new FontFace('EliceRegular', `url(${EliceRegular})`);
+
+    eliceRegular.load().then(
+      () => {
+        document.documentElement.classList.add('fonts-loaded');
+      },
+      (err) => {
+        console.error(err);
+      },
+    );
+  }, []);
+
   return (
     <BrowserRouter>
       <Routes>
