@@ -17,7 +17,9 @@
 
 <br />
 
-세부적인 내용들은 [프로젝트 소개서](https://milkboy2564.notion.site/8-000796bd8fc447a9a981af9bc247c74d)에서 확인하실 수 있습니다.
+<br />
+
+​		  세부적인 내용들은 [프로젝트 소개서](https://milkboy2564.notion.site/8-000796bd8fc447a9a981af9bc247c74d)에서 확인하실 수 있습니다.
 
 <br />
 
