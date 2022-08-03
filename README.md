@@ -187,3 +187,8 @@ https://rabbit-hole.kr/
 | 신윤수 | 백엔드 |
 | 이승훈 | 프론트엔드 |
 | 이혜성 | 프론트엔드 |
+
+## :warning: Trouble Shooting
+
+개발 중 발생한 문제들에 대한 Trouble Shooting에 대한 경험은 [여기](https://github.com/SeolJaeHyeok/Rabbit-Hole/wiki/Trouble-Shooting)에서  확인하실 수 있습니다.
+
