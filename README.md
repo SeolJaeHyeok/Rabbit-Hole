@@ -16,13 +16,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :checkered_flag: 레이서들이 엘리스 트랙 첫번째 챕터부터 함께하는 커뮤니티가 되고자 합니다.
 
 <br />
+
+세부적인 내용들은 [프로젝트 소개서](https://milkboy2564.notion.site/8-000796bd8fc447a9a981af9bc247c74d)에서 확인하실 수 있습니다.
+
 <br />
-
-
 
 ## :link: 프로젝트 링크
 
 https://rabbit-hole.kr/
+
+<br />
 
 ##  :bulb: 프로젝트 기획 의도
 
