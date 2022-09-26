@@ -130,14 +130,14 @@ https://rabbit-hole.kr/
 - 로그인 사용자만 이용가능
 <br />
 
-##  :newspaper: 프로젝트 구성도
+##  :newspaper: 프로젝트 구성
 
 ### 📋 프로젝트 구조도
 
 ![Rabbit-hole - 프로젝트구조도](https://user-images.githubusercontent.com/71430291/192342035-ee354308-cd79-43df-9b04-c83fc9672419.png)
-
-
 <br />
+
+## 🛠 기술 스택
 
 #### :hammer: 프론트엔드
 <br />
@@ -156,7 +156,7 @@ https://rabbit-hole.kr/
 ![nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 
 
-<br />
+## 📒 기술 문서
 
 ###  와이어프레임
 
