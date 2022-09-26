@@ -66,10 +66,8 @@ https://rabbit-hole.kr/
 
 ## :nut_and_bolt: 서비스 주요 기능
 
-<br />
 
 ### 메인 기능
-<br />
 
 #### 커뮤니티 게시판(/board): 자유, 질의응답, 스터디 모집 게시판
 
@@ -121,7 +119,6 @@ https://rabbit-hole.kr/
 <br />
 
 ### 서브 기능
-<br />
 
 #### 회원가입(/github/register)
 - Valitaion
@@ -137,9 +134,8 @@ https://rabbit-hole.kr/
 
 ### 📋 프로젝트 구조도
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4dac4005-b11d-4b08-9a92-b1a765b2b832/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B5%AC%EC%A1%B0%EB%8F%84.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220727%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220727T051603Z&X-Amz-Expires=86400&X-Amz-Signature=876cc96c96e9be23b98dccc0134da24df04916de3f0b8492a6d7dc515cc06ccf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%25EA%25B5%25AC%25EC%25A1%25B0%25EB%258F%2584.png%22&x-id=GetObject" width=1000/>
+![Rabbit-hole - 프로젝트구조도](https://user-images.githubusercontent.com/71430291/192342035-ee354308-cd79-43df-9b04-c83fc9672419.png)
 
-###  :tools: Tech
 
 <br />
 
@@ -166,19 +162,14 @@ https://rabbit-hole.kr/
 
 - [Rabbit-hole-Figma](https://www.figma.com/file/wATGGnMmpwqmi9sotr8CAM?embed_host=notion&kind=&viewer=1)
 
-<br />
-
 ### ERD
 
 - [Rabbit-hole-Schema.drawio](https://app.diagrams.net/#G1qNIzJQOb63OoJ2LYzeWAhqwIY7_L_KvA)
-
-<br />
 
 ### API DOCS
 
 - [Rabbit-hole-Postman.docs](https://documenter.getpostman.com/view/18759067/UzJJsGkX#960344b7-13d3-4c13-ad93-f7e01b97b33d)
 
-<br />
 
 ##  :handshake: 프로젝트 팀원 역할 분담
 
