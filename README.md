@@ -19,7 +19,8 @@
 
 <br />
 
-​		  시연 영상 및 세부 내용은 [프로젝트 소개서](https://milkboy2564.notion.site/8-000796bd8fc447a9a981af9bc247c74d)에서 확인하실 수 있습니다.
+​		    - 프로젝트 소개서 보러가기: [Click](https://milkboy2564.notion.site/8-000796bd8fc447a9a981af9bc247c74d)</br>
+​       - 프로젝트 회고 보러가기:  [Click](https://velog.io/@milkboy2564/%EB%A0%88%EC%9D%B4%EC%84%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 <br />
 
