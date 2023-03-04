@@ -183,6 +183,37 @@ https://rabbit-hole.kr/
 | 이승훈 | 프론트엔드 |
 | 이혜성 | 프론트엔드 |
 
+## 프로젝트 내 역할
+
+1. 공통 컴포넌트(Footer, Modal, Select Box)
+    - 확장성을 고려한 공통 컴포넌트 제작
+    - 커스텀 Hook을 활용한 Select Box
+    - Modal 컴포넌트 제작
+2. Main Page
+    - Main Page Rendering 이슈 해결
+3. Project Gallery Page
+    - 전체 프로젝트 조회
+    - 프로젝트 등록 및 Form Validation
+    - 페이지네이션
+    - 최신/조회순 정렬
+4.  Project Detail Page
+    - 프로젝트 상세 조회
+    - 댓글, 좋아요 기능
+    - 댓글 삭제, 프로젝트 수정 및 삭제
+5. My Page
+    - 프로필 이미지 미리보기, 등록. 수정
+    - 개인 프로필 CRUD
+    - 개인 프로젝트 조회, 수정, 삭제
+    - 개인 게시글 조회, 수정, 삭제
+    - 페이지네이션
+6. Register
+    - 회원가입 Form 및 Form Validation
+7. 공통 모듈 및 함수 제작(API, Interface, utils)
+    - Validation을 위한 공통 정규식 정의
+    - API 모듈 분리
+    - interface 분리
+    - 유틸 함수 정의
+
 ## :warning: Trouble Shooting
 
 개발 중 발생한 문제들에 대한 Trouble Shooting에 대한 경험은 [여기](https://github.com/SeolJaeHyeok/Rabbit-Hole/wiki/Trouble-Shooting)에서  확인하실 수 있습니다.
